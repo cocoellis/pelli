@@ -32,7 +32,7 @@ ul.nav.navbar-nav li {
 }
 
 .onboarding > .navbar {
-  background-image: url("./images/nav-bg.png");
+  background-image: url("./images/pellli_main.png");
   background-size: 100% 100%;
 }
 
@@ -47,7 +47,7 @@ ul.nav.navbar-nav li {
   align-items: center;
   justify-content: center;
   z-index: -1;
-  background-image: url("./images/signed-out-home.jpg");
+  background-image: url("./images/pellli_main.png");
   text-align: center;
   padding: 1rem;
   background-position: center center;
