@@ -9,7 +9,7 @@
   align-items: center;
   justify-content: center;
   z-index: -1;
-  background-image: url(".src/images/pellli_main.png");
+  background-image: url("./src/images/pellli_main.png");
   text-align: center;
   padding: 1rem;
   background-position: center center;
